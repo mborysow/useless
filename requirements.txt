@@ -1,0 +1,17 @@
+pandas
+numpy
+scipy
+prettyplotlib
+tqdm
+bokeh
+bottleneck
+blaze
+cython
+numba
+plotbrowser
+pyqtgraph
+scikit-image
+scikit-learn
+statsmodels
+theano
+matplotlib
